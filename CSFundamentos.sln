@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDeDados4", "TipoDeDados
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{DAFCCD75-9E7D-4897-8E48-657AC67A0BAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{62AEA723-A425-4231-908A-CC0AD757E61A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DAFCCD75-9E7D-4897-8E48-657AC67A0BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAFCCD75-9E7D-4897-8E48-657AC67A0BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAFCCD75-9E7D-4897-8E48-657AC67A0BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AEA723-A425-4231-908A-CC0AD757E61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AEA723-A425-4231-908A-CC0AD757E61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AEA723-A425-4231-908A-CC0AD757E61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AEA723-A425-4231-908A-CC0AD757E61A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
